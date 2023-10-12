@@ -1,6 +1,6 @@
 ! Test 8-25-23 1456
 
-!||yahoo.com^
+0.0.0.0,:: search.yahoo.com
 !||yahoo.net^
 ! 
 !
