@@ -13,22 +13,22 @@
 !
 ! Aomei backupper
 !
-!||gdm-catalog-fmapi-prod.imgix.net^
-!||aomeisoftware.com^
-!||aomeitech.com^
-!||ubackup.com^
+||gdm-catalog-fmapi-prod.imgix.net^
+||aomeisoftware.com^
+||aomeitech.com^
+||ubackup.com^
 !
-!||www.ubackup.com^
-!||www2.aomeisoftware.com^
-!||account.aomeitech.com^
+||www.ubackup.com^
+||www2.aomeisoftware.com^
+||account.aomeitech.com^
 !
 ! Easeus
 !
-!||easeus.com^
-!||easeusinfo.us-east-1.log.aliyuncs.com^
-!||aliyuncs.com^
-!||uompro.easeus.com^
-!||track.easeus.com^
+||easeus.com^
+||easeusinfo.us-east-1.log.aliyuncs.com^
+||aliyuncs.com^
+||uompro.easeus.com^
+||track.easeus.com^
 !
 !
 !1! Google / Yahoo
