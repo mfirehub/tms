@@ -13,10 +13,10 @@
 !
 ! Aomei backupper
 !
-||gdm-catalog-fmapi-prod.imgix.net^
-||aomeisoftware.com^
-||aomeitech.com^
-||ubackup.com^
+!||gdm-catalog-fmapi-prod.imgix.net^
+!||aomeisoftware.com^
+!||aomeitech.com^
+!||ubackup.com^
 !
 !||www.ubackup.com^
 !||www2.aomeisoftware.com^
@@ -24,10 +24,9 @@
 !
 ! Easeus
 !
-||easeus.com^
-||easeusinfo.us-east-1.log.aliyuncs.com^
-||aliyuncs.com^
-||yandex.ru^
+!||easeus.com^
+!||easeusinfo.us-east-1.log.aliyuncs.com^
+!||aliyuncs.com^
 !||uompro.easeus.com^
 !||track.easeus.com^
 !
@@ -92,7 +91,9 @@
 ||graph.facebook.com^
 ||px.ads.linkedin.com^
 !
-!5! CN Domains
+!5! CN & RU Domains and DNS
+!
+||yandex.ru^
 !
 ||cnmobile.net^
 ||soso.com^
