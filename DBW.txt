@@ -84021,7 +84021,7 @@
 ||uscc.score.symposiumhaiti.com^
 ||uscdn.top^
 ||usclandscapesupply.com^
-||use-application-dns.net^
+!||use-application-dns.net^
 ||usearch.site^
 ||usebuthareb.ru^
 ||usecehahi.ru^
