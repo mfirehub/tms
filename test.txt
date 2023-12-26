@@ -1,7 +1,7 @@
 ! Test 8-25-23 1456
 
-0.0.0.0,:: search.yahoo.com
-||yahoo.net^
+!0.0.0.0,:: search.yahoo.com
+||yahoo.com^
 ! 
 !
 ! Testing The filter option important
