@@ -1,6 +1,6 @@
 ! !0!  TI.txt
 !
-!! 11-27-23 
+!! 08-22-2024
 !
 ! !1! Google / Yahoo, !2! New Tackers, !3! Trackers
 ! !4! Social Media, !5! CN Domains, !6!Tiktock, Combine !7!
@@ -10,12 +10,6 @@
 ! Test with Yahoo
 !
 !||yahoo.com^
-!
-!1 Video Streaming Test
-!
-||imrworldwide.com^
-||pi.ispot.tv^
-!
 !
 ! Testing
 !
@@ -28,59 +22,25 @@
 !
 !1! Google / Yahoo
 !
-||google-analytics.com^$important,third-party
-||google-analytics.com^$important
-||analyticsengine.s3.amazonaws.com^
+||google-analytics.com^
+!||analyticsengine.s3.amazonaws.com^
 ||googletagmanager.com^
 ||adservice.google.com^
 ||userlocation.googleapis.com^
 ||google-analytics.com^
 ||googleoptimize.com^
 ||pr-bh.ybp.yahoo.com^
+!||google-analytics.com^$important,third-party
+!||google-analytics.com^$important
 !
 !
 !2! New Tackers
 !
-||track.easeus.com^
-||gravatar.com^
+!||track.easeus.com^
+!||gravatar.com^
 !||wp.com^
 !||zdassets.com^
 !
-!3! Trackers
-!
-||fwmrm.net^
-||adsrvr.org^
-||ade.googlesyndication.com^
-||extremereach.io^
-||id5-sync.com^
-||omnitagjs.com^
-||3lift.com^
-||cm.mgid.com^
-||outbrain.com^
-||taboola.com^
-||ads.linkedin.com^
-||datadoghq.com^
-||famileai.com^
-||extremereach.io^
-||sdk.split.io^
-||di.rlcdn.com^
-||w55c.net^
-||licdn.com^
-||pardot.com^
-||quantserve.com^
-||pointmediatracker.com^
-||flashtalking.com^
-||krxd.net^
-||scorecardresearch.com^
-||marketing.nero.com^
-||telemetry.acronis.com^
-||omnitagjs.com^
-||3lift.com^
-||taboola.com^
-||criteo.com^
-||criteo.com^
-||criteo.net^
-||getclicky.com^
 !
 !4! Social Media 
 !
