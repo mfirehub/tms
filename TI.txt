@@ -13,8 +13,8 @@
 !
 !1 Video Streaming Test
 !
-||imrworldwide.com^
-||pi.ispot.tv^
+!||imrworldwide.com^
+!||pi.ispot.tv^
 !
 ! Aomei backupper
 !
