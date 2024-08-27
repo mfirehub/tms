@@ -54,7 +54,7 @@
 ||google-analytics.com^
 ||googleoptimize.com^
 ||mtalk.google.com^
-||pr-bh.ybp.yahoo.com^
+!||pr-bh.ybp.yahoo.com^ !Video Streaming Don't Block!
 !
 !
 !2! New Tackers
@@ -68,7 +68,7 @@
 ||fwmrm.net^
 ||adsrvr.org^
 ||ade.googlesyndication.com^
-||extremereach.io^
+!||extremereach.io^ !Video Streaming Don't Block!
 ||id5-sync.com^
 ||omnitagjs.com^
 ||3lift.com^
@@ -78,7 +78,6 @@
 ||ads.linkedin.com^
 ||datadoghq.com^
 ||famileai.com^
-||extremereach.io^
 ||sdk.split.io^
 ||di.rlcdn.com^
 ||w55c.net^
@@ -88,7 +87,7 @@
 ||pointmediatracker.com^
 ||flashtalking.com^
 ||krxd.net^
-||scorecardresearch.com^
+!||scorecardresearch.com^ !Video Streaming Don't Block!
 ||marketing.nero.com^
 ||telemetry.acronis.com^
 ||omnitagjs.com^
