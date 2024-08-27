@@ -54800,9 +54800,9 @@
 !@@||p3plzcpnl463002.prod.phx3.secureserver.net:2083^|
 !
 ! TSP
-@@||www.tsp.gov^|
-@@||tsp.gov^|   
-@@||api.rk.tsp.gov^|
+!@@||www.tsp.gov^|
+!@@||tsp.gov^|   
+!@@||api.rk.tsp.gov^|
 !
 !
 ! !9! Streaming Video & Audio  Exceptions
