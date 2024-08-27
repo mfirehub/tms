@@ -1,6 +1,6 @@
 ! !0!  TI.txt
 !
-!! 8-27-24 1630
+!! 8-27-24 1657
 !
 ! !1! Google / Yahoo, !2! New Tackers, !3! Trackers
 ! !4! Social Media, !5! CN Domains, !6!Tiktock, Combine !7!
@@ -46,8 +46,7 @@
 !
 !1! Google / Yahoo
 !
-||google-analytics.com^$important,third-party
-||google-analytics.com^$important
+||google-analytics.com
 ||analyticsengine.s3.amazonaws.com^
 ||googletagmanager.com^
 ||adservice.google.com^
@@ -2842,7 +2841,7 @@
 ||tiktok.cdnvideo.ru^
 ||tiktok.childrenofprimus.com^
 ||tiktok.com^
-||tiktok.com.^
+||tiktok.net^
 ||tiktok.com.c.footprint.net^
 ||tiktok.com.c.secure.footprint.net^
 ||tiktok.com.edgekey.net^
