@@ -8794,7 +8794,6 @@ ff02::3 ip6-allhosts
 0.0.0.0,:: akaidait.bookonline.com.cn
 0.0.0.0,:: akaiksots.com
 0.0.0.0,:: akama.com
-0.0.0.0,:: akamaihd.net
 0.0.0.0,:: akampaventures.com
 0.0.0.0,:: akan-zon-ama.jp.asiflyerbio.com.cn
 0.0.0.0,:: akariyer.com
