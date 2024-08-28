@@ -6888,7 +6888,7 @@
 ||akademsmile.ru^
 ||akaelyr.cn^
 ||akaidait.bookonline.com.cn^
-||akamaihd.net^
+!||akamaihd.net^ !Video Streaming!
 ||akampaventures.com^
 ||akashfeedcpl.com^
 ||akashy.com^
