@@ -42,6 +42,10 @@
 ! https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=FRTIB&pua=ua-33523145-2
 ||dap.digitalgov.gov^
 ||analytics.usa.gov^
+||ns1.google.com^
+||ns2.google.com^
+||ns3.google.com^
+||ns4.google.com^
 !
 !
 !1! Google / Yahoo
@@ -53,8 +57,8 @@
 ||userlocation.googleapis.com^
 ||google-analytics.com^
 ||googleoptimize.com^
-||mtalk.google.com^
-!||pr-bh.ybp.yahoo.com^ !Video Streaming Don't Block!
+! ||mtalk.google.com^ !mobile phone!
+! ||pr-bh.ybp.yahoo.com^ !Video Streaming Don't Block!
 !
 !
 !2! New Tackers
