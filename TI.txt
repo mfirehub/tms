@@ -63,6 +63,8 @@
 !
 !2! New Tackers
 !
+||bonterratech.com^
+||everyaction.com^
 ||gravatar.com^
 !||wp.com^
 !||zdassets.com^
