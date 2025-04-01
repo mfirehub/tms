@@ -3,3 +3,11 @@ amazon-adsystem.com
 browser-intake-datadoghq.com
 googleads.g.doubleclick.net
 k3c2rk-launches.appsflyersdk.com
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+pagead2.googlesyndication.com
+c.amazon-adsystem.com
+aax.amazon-adsystem.com
+cdn.doubleverify.com
+scripts.webcontentassessor.com
+ib.adnxs.com
