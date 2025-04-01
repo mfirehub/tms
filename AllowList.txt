@@ -1,0 +1,9 @@
+! Test Allow List 04-01-2025 : 1829
+!Fox News 
+
+||prod.idgraph.dt.fox^
+||amazon-adsystem.com^
+||ib.adnxs.com^
+||browser-intake-datadoghq.com^
+||googleads.g.doubleclick.net^
+||k3c2rk-launches.appsflyersdk.com^
