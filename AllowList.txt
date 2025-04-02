@@ -12,4 +12,10 @@ cdn.doubleverify.com
 scripts.webcontentassessor.com
 ib.adnxs.com
 pyxis.atp.fox
-
+ping.chartbeat.net
+imasdk.googleapis.com
+tpc.googlesyndication.com
+k3c2rk-inapps.appsflyersdk.com
+cdn-settings.segment.com
+dpm.demdex.net
+sdk-04.moengage.com
