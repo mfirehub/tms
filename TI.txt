@@ -112,6 +112,14 @@
 !
 !5! CN Domains
 !
+! *** Drone ***
+||videocloud.cn-hangzhou.log.aliyuncs.com^
+||aliyuncs.com^
+||app.hy-chip.com^
+||hy-chip.com^
+||api.map.baidu.com^
+||baidu.com^
+!
 ||cnmobile.net^
 ||soso.com^
 ||sogou.com^
