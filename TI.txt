@@ -7811,7 +7811,7 @@
 ||api.amemv.com.xi.zwtianshangm.com^
 ||api.baimless.com^
 ||api.deltastealer.love^
-||api.digitalaccess.ru/logger^
+||api.digitalaccess.ru^
 ||api.eduvideo.com.cn^
 ||api.elladacats.ru^
 ||api.elwekala.com^
@@ -9062,7 +9062,7 @@
 ||awt.co.id^
 ||awtks.com^
 ||awyys.com^
-||ax..ifeng.com^
+||ifeng.com^
 ||ax.ifeng.com^
 ||ax.mutualfundlibrary.cn^
 ||ax1x.com^
@@ -10304,7 +10304,6 @@
 ||biya2music2.ir^
 ||biyskiykotelnyuzavod.ru^
 ||biz.gexing.com^
-||biz/v^
 ||biz9.xyz^
 ||bizads.pl^
 ||bizbeecar.fr^
@@ -12799,8 +12798,6 @@
 ||coluccio.eu^
 ||columbiahhc.com^
 ||com.adv.vz.ru^
-||com/?id=&t=direct^
-||com/video/^
 ||comagequipamentos.com.br^
 ||comand.edu.pk^
 ||comandostransportes.com^
