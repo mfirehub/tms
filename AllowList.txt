@@ -1,6 +1,15 @@
+# Fox News Allow List
+# 5/15/2025 1135
+# proper syntax for a pihole allow list.txt
+
+foxnews.hb.omtrdc.net
+smetricts.foxnews.com
+foxnews.com
+vod.foxnews.com
 prod.idgraph.dt.fox
 amazon-adsystem.com
-browser-intake-datadoghq.com
+# browser-intake-datadoghq.com
+googlevideo.com
 googleads.g.doubleclick.net
 k3c2rk-launches.appsflyersdk.com
 pubads.g.doubleclick.net
@@ -19,3 +28,9 @@ k3c2rk-inapps.appsflyersdk.com
 cdn-settings.segment.com
 dpm.demdex.net
 sdk-04.moengage.com
+cf-images.us-east-1.prod.boltdns.net
+sdk.iad-05.braze.com
+feeds-meta.foxnews.com
+infoevent.startappservice.com
+redirector.googlevideo.com
+tv.springserve.com
