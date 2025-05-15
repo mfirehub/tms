@@ -1,6 +1,6 @@
 ! !0!  TI.txt
 !
-!! 8-27-24 1721
+!! 05-15-2025 1024
 !
 ! !1! Google / Yahoo, !2! New Tackers, !3! Trackers
 ! !4! Social Media, !5! CN Domains, !6!Tiktock, Combine !7!
@@ -112,7 +112,7 @@
 !
 !5! CN Domains
 !
-! *** Drone ***
+!  Drone 
 ||videocloud.cn-hangzhou.log.aliyuncs.com^
 ||aliyuncs.com^
 ||app.hy-chip.com^
@@ -5051,7 +5051,7 @@
 ||7xsf3h.com1.z0.glb.clouddn.com^
 ||7xwx.cn^
 ||7yvvjhguu-b3.myjino.ru^
-||8*.tianya.cn^
+||tianya.cn^
 ||8.365tv.ma^
 ||8.u0141023.z8.ru^
 ||800156.bookonline.com.cn^
@@ -5584,7 +5584,7 @@
 ||9wsbf.top^
 ||9xg2.fun^
 ||9xu.com^
-||a*.chajiaotong.com^
+||chajiaotong.com^
 ||a.10tianqi.com^
 ||a.4aqq.com^
 ||a.52wubi.com^
@@ -6010,9 +6010,9 @@
 ||abv-mebelshop.ru^
 ||abw-minsk.chat.ru^
 ||abydosstone.com^
-||ac*.786ip.com^
-||ac*.faxingchina.com^
-||ac*.pingguolv.com^
+||ac.786ip.com^
+||ac.faxingchina.com^
+||ac.pingguolv.com^
 ||ac.86huoche.com^
 ||ac.art456.com^
 ||ac1.pingpingw.com^
@@ -6294,7 +6294,7 @@
 ||adharshevent.in^
 ||adhc.bookonline.com.cn^
 ||adhyaystudio.com^
-||adi*.cnool.net^
+||adi.cnool.net^
 ||adiabetic.ru^
 ||adiexjy.cn^
 ||adijey.com^
@@ -8546,7 +8546,7 @@
 ||ascendententerprisesllc.com^
 ||ascenteus.com^
 ||ascentprint.ru^
-||asd8900.oss-*.aliyuncs.com^
+||asd8900.oss-.aliyuncs.com^
 ||asdexpress.ru^
 ||asdffe22.com^
 ||asdhit.com^
@@ -8682,7 +8682,7 @@
 ||asysac.ir^
 ||asystem3.com^
 ||aszswyd.cn^
-||at*.doubanio.com^
+||at.doubanio.com^
 ||at52.ru^
 ||atacadaobsb.com.br^
 ||atalayajewelry.com^
@@ -9044,7 +9044,7 @@
 ||aweme-yak.snssdk.com^
 ||aweme-yak.snssdk.com.w.kunluncan.com^
 ||aweme-yak-hl.snssdk.com^
-||awesomeredirector*com^
+||awesomeredirectorcom^
 ||awesometech.team^
 ||awfaronline.com^
 ||awiazs.com^
@@ -9060,7 +9060,7 @@
 ||awt.co.id^
 ||awtks.com^
 ||awyys.com^
-||ax.*.ifeng.com^
+||ax..ifeng.com^
 ||ax.ifeng.com^
 ||ax.mutualfundlibrary.cn^
 ||ax1x.com^
@@ -9635,7 +9635,7 @@
 ||bcvxfgy.xyz^
 ||bcy.snssdk.com^
 ||bcy-promo.snssdk.com^
-||bd*-ys.km.com^
+||bd-ys.km.com^
 ||bd.ahsrst.cn^
 ||bd.beimap.com^
 ||bd.czxuexi.com^
@@ -9705,7 +9705,7 @@
 ||bdcode.youke.com^
 ||bdconsulting-cm.com^
 ||bdcouncil.site^
-||bdcpro*.techweb.com.cn^
+||bdcpro.techweb.com.cn^
 ||bdcse.xyz^
 ||bddwm.com^
 ||bdfg9a.icu^
@@ -9729,7 +9729,7 @@
 ||bdjs.shangc.net^
 ||bdjs.uimg.cn^
 ||bd-js1.2345.com^
-||bdlm*.hc360.com^
+||bdlm.hc360.com^
 ||bdm.911cha.com^
 ||bdm.ye-su.cn^
 ||bdme.photo.beyoudcor.com^
@@ -12797,8 +12797,8 @@
 ||coluccio.eu^
 ||columbiahhc.com^
 ||com.adv.vz.ru^
-||com/?id=*&t=direct^
-||com/video/*^
+||com/?id=&t=direct^
+||com/video/^
 ||comagequipamentos.com.br^
 ||comand.edu.pk^
 ||comandostransportes.com^
@@ -13624,8 +13624,8 @@
 ||czrrs.cn^
 ||czsl.91756.cn^
 ||czwwxl.cn^
-||d*.ruiwen.com^
-||d*.xinshipu.com^
+||d.ruiwen.com^
+||d.xinshipu.com^
 ||d.1d1ea3183fd2323c.com^
 ||d.8181zx.com^
 ||d.ab126.com^
@@ -14877,8 +14877,8 @@
 ||dlzjdesign.com^
 ||dlzqgy.cn^
 ||dlzxjk.cn^
-||dm*.ppzuowen.com^
-||dm*.yxlady.com^
+||dm.ppzuowen.com^
+||dm.yxlady.com^
 ||dm.17xuexiba.com^
 ||dm.21hubei.com^
 ||dm.300zi.com^
@@ -14967,7 +14967,7 @@
 ||dmxfdp.xyz^
 ||dmym.aixyy.com^
 ||dmzfw.cn^
-||dn*.ixinwei.com^
+||dn.ixinwei.com^
 ||dnacafeandrestaurant.com^
 ||dnaultrawash.com^
 ||dnautik.com^
@@ -17249,7 +17249,7 @@
 ||fanjin.name^
 ||fanmalinin.ru^
 ||fanooskish.ir^
-||fanpingbi*.gaokao.com^
+||fanpingbi.gaokao.com^
 ||fanpool.ru^
 ||fant.com.ru^
 ||fantadentalperu.com^
@@ -18148,7 +18148,7 @@
 ||fp.nanrenwo.net^
 ||fpashgkepwtoqdjg.pw^
 ||f-pay-rp.snssdk.com^
-||fpb*.51edu.com^
+||fpb.51edu.com^
 ||fpb.sohu.com^
 ||fpb1.apple886.com^
 ||fpb1.jsq886.com^
@@ -18808,7 +18808,7 @@
 ||gcti.edu.cn^
 ||gctjgy.cn^
 ||gctrwp.edu.pk^
-||gcw*.2liang.cn^
+||gcw.2liang.cn^
 ||gcxp.xyz^
 ||gd.189.cn^
 ||gd.ct10000.com^
@@ -22319,8 +22319,8 @@
 ||imprimeya.mx^
 ||impromot.com^
 ||improvemymarks.com^
-||impservice*.yodao.com^
-||impservice*.youdao.com^
+||impservice.yodao.com^
+||impservice.youdao.com^
 ||impuls72.ru^
 ||impuls-fit.ru^
 ||impulsointegrated.com^
@@ -23145,7 +23145,7 @@
 ||itbook.bookonline.com.cn^
 ||itboysamir.com^
 ||itbwq.xyz^
-||itc.*^
+||itc.^
 ||it-cheb.ru^
 ||itchess.cn^
 ||itdcofs.pw^
@@ -23362,7 +23362,7 @@
 ||j9050082.bget.ru^
 ||j946104.myjino.ru^
 ||j960484.myjino.ru^
-||ja*.gamersky.com^
+||ja.gamersky.com^
 ||jaabeieacddhbdcdf.ru^
 ||jab.clairdress.ru^
 ||jab88.com^
@@ -24000,7 +24000,7 @@
 ||jrxqwhbpnjx.pw^
 ||jrysogsia.uno^
 ||jrzaht.xyz^
-||js*.abolezi.com^
+||js.abolezi.com^
 ||js.263y.com^
 ||js.5b6b7b.ru^
 ||js.92aliyun.com^
@@ -26786,7 +26786,7 @@
 ||ltl.bookonline.com.cn^
 ||ltms.estrazavi.ir^
 ||ltrain.ir^
-||lts*.qq.com^
+||lts.qq.com^
 ||lts-ns.byteoversea.com^
 ||ltwfd.xyz^
 ||lu.sogou.com^
@@ -34154,7 +34154,7 @@
 ||qotube.com^
 ||qoutesera.com^
 ||qowg.top^
-||qpb*.sohu.com^
+||qpb.sohu.com^
 ||qpdzftuc.cn^
 ||qpoiwnelc.com^
 ||qponfva.cn^
@@ -35952,7 +35952,7 @@
 ||saltydogs.ru^
 ||salusvidanova.com.br^
 ||salutass.com^
-||sam*.baby-kingdom.com^
+||sam.baby-kingdom.com^
 ||sama.ru^
 ||samaafm.com^
 ||sama-beauty.com^
@@ -35965,7 +35965,7 @@
 ||samasub.com^
 ||samasugroup.com^
 ||samdog.ru^
-||same*.stockstar.com^
+||same.stockstar.com^
 ||same.chinadaily.com.cn^
 ||same.eastmoney.com^
 ||samebuildingmovers.com^
@@ -38257,7 +38257,7 @@
 ||ssgarments.pk^
 ||ssgg.chazidian.com^
 ||ssgroup-int-bestexports1989limited.com^
-||ssh.*.com^
+||ssh..com^
 ||sshd.run^
 ||sshiimmvldqfdpoqg.pw^
 ||ssibooster.com^
@@ -38398,7 +38398,7 @@
 ||statanalyze.cn^
 ||stateassociates.com.pk^
 ||statesports.com.au^
-||static*.365inews.com^
+||static.365inews.com^
 ||static.cz01.cn^
 ||static.gaomaer.cn^
 ||static.ichehome.com^
@@ -40042,7 +40042,7 @@
 ||thuaphatlaiphanrang.com^
 ||thucphamhaisanphuochung.vn^
 ||thulasipharmacy.com^
-||thumbs.ivi.ru*.swf^
+||thumbs.ivi.ru.swf^
 ||thumbsmaoism.pw^
 ||thumpac.com^
 ||thunderboltads.pw^
@@ -41610,7 +41610,7 @@
 ||ubtebalumni.com^
 ||ububelememorial.co.za^
 ||ubuconsultants.com^
-||uc*.atobo.com^
+||uc.atobo.com^
 ||uc9.suinidai.com.cn^
 ||ucanokgroup.com^
 ||uc-baidu.cc^
@@ -41869,7 +41869,7 @@
 ||unimerfertilizzanti.it^
 ||uninstall-tools.ru^
 ||uninstalltoolz.ru^
-||union*.365inews.com^
+||union.365inews.com^
 ||union.china.com.cn^
 ||union.yihaodian.com^
 ||union009.com^
@@ -42725,7 +42725,7 @@
 ||vasoschingones.com^
 ||vaspe34.somee.com^
 ||vassabgg.pw^
-||vast*.videocdn.tv^
+||vast.videocdn.tv^
 ||vast.alloha.tv^
 ||vast.bazonserver.site^
 ||vast.videocdn.tv^
@@ -43302,7 +43302,7 @@
 ||vnlqcod.cn^
 ||vnpt-han-api.l.byteoversea.net^
 ||vnq3.top^
-||vns86.oss-*.aliyuncs.com^
+||vns86.oss-.aliyuncs.com^
 ||vnsxrzuywug.cn^
 ||vntc.ru^
 ||vnumqjo.cn^
@@ -53563,7 +53563,7 @@
 ||y66xvgo5i.chuimg.com^
 ||y88m2.top^
 ||y8ht.xyz^
-||ya*.dwstatic.com^
+||ya.dwstatic.com^
 ||yaa.com.hk^
 ||ya-aaaa123123.myjino.ru^
 ||yaakheesub.com^
@@ -53976,7 +53976,7 @@
 ||ysbp3.cn^
 ||yscdsdey.page.link^
 ||ysclub.top^
-||ysdm*.ys137.com.cn^
+||ysdm.ys137.com.cn^
 ||ysf-yemen.org^
 ||ysgc9.cn^
 ||ysgekq.xyz^
@@ -54435,7 +54435,7 @@
 ||zhivotokspb.ru^
 ||zhixcb.cn^
 ||zhixin.host^
-||zhizhizhizhi.oss-*.aliyuncs.com^
+||zhizhizhizhi.oss-.aliyuncs.com^
 ||zhizones.com^
 ||zhjhjj.cn^
 ||zhongfamech.com.cn^
@@ -54823,3 +54823,4 @@
 !9!
 !
 !0! End Ti.txt
+
