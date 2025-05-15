@@ -50,7 +50,8 @@
 !
 !1! Google / Yahoo
 !
-||google-analytics.com
+||www.google-analytics.com^
+||google-analytics.com^
 ||analyticsengine.s3.amazonaws.com^
 ||googletagmanager.com^
 ||adservice.google.com^
@@ -61,16 +62,16 @@
 ! ||pr-bh.ybp.yahoo.com^ !Video Streaming Don't Block!
 !
 !
-!2! New Tackers
+!2! Test Tackers
 !
-||bonterratech.com^
-||everyaction.com^
-||gravatar.com^
 !||wp.com^
 !||zdassets.com^
 !
 !3! Trackers
 !
+||bonterratech.com^
+||everyaction.com^
+||gravatar.com^
 ||fwmrm.net^
 ||adsrvr.org^
 ||ade.googlesyndication.com^
